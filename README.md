@@ -1,2 +1,2 @@
 # prSOD
-post graduate staff management project. python
+post graduate staff management project. developed in Python on Pythonanywhere
